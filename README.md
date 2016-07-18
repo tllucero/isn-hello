@@ -1,2 +1,2 @@
 # isn-hello
-Internationa Software Network 
+International Software Network 
